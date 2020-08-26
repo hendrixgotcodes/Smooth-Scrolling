@@ -1,0 +1,55 @@
+*{
+    font-family: "Bree-serif", sans-serif;
+}
+nav{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: #000;
+    color: #fff;
+    position: fixed;
+    z-index: 2;
+    padding: 0 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav > center{
+    width: 100%;
+}
+nav > center > a{
+    text-decoration: none;
+    color: #fff;
+    display: inline-block;
+    padding: 1rem;
+}
+
+.section {
+    padding: 1rem;
+}
+
+ul a > span{
+    border: 1px solid #fff;
+
+}
+
+.first {
+    background-color: #dddd6d;
+    color: #fff;
+
+}
+
+.section h1 {
+    font-size: 3.5rem;
+}
+
+.second{
+    background-color: #0060af;
+    color: #fff;
+}
+
+.third {
+    background-color: #1b1c1d;
+    color: #fff;
+}
