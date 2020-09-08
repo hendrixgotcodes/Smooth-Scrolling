@@ -27,6 +27,8 @@ nav > center > a{
 
 .section {
     padding: 1rem;
+    text-align: center;
+    font-size: 5rem;
 }
 
 ul a > span{
